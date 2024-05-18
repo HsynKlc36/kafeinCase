@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="3.1.30" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NETDeveloperCaseStudy.Core\NETDeveloperCaseStudy.Core.csproj" />
+    <ProjectReference Include="..\NETDeveloperCaseStudy.Entities\NETDeveloperCaseStudy.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

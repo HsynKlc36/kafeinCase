@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FFMpegCore" Version="5.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.1.1" />
+    <PackageReference Include="MimeKit" Version="4.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.3.5" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NETDeveloperCaseStudy.Authentication\NETDeveloperCaseStudy.Authentication.csproj" />
+    <ProjectReference Include="..\NETDeveloperCaseStudy.DataAccess.Interfaces\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\NETDeveloperCaseStudy.Dtos\NETDeveloperCaseStudy.Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

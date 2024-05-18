@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\rabbitmq\\rabbitmqemailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\rabbitmq\\rabbitmqemailworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.webapi\\areas\\client\\controllers\\v1\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|solutionrelative:netdevelopercasestudy.webapi\\areas\\client\\controllers\\v1\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\concretes\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\concretes\\shoppingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\rabbitmq\\rabbitmqservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CE5BA-8387-40F0-BC05-52C9E7ECFD40}|NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.dataaccess\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CE5BA-8387-40F0-BC05-52C9E7ECFD40}|NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj|solutionrelative:netdevelopercasestudy.dataaccess\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE147A65-5A19-4C52-8A9D-966269810AC9}|NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.dataaccess.efcore\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE147A65-5A19-4C52-8A9D-966269810AC9}|NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj|solutionrelative:netdevelopercasestudy.dataaccess.efcore\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\concretes\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\concretes\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.webapi\\wwwroot\\emailtemplate\\orderemail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|solutionrelative:netdevelopercasestudy.webapi\\wwwroot\\emailtemplate\\orderemail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65339455-7256-42AA-B3BA-41664018CA82}|NETDeveloperCaseStudy.Dtos\\NETDeveloperCaseStudy.Dtos.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.dtos\\shopping\\shoppingcartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65339455-7256-42AA-B3BA-41664018CA82}|NETDeveloperCaseStudy.Dtos\\NETDeveloperCaseStudy.Dtos.csproj|solutionrelative:netdevelopercasestudy.dtos\\shopping\\shoppingcartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65339455-7256-42AA-B3BA-41664018CA82}|NETDeveloperCaseStudy.Dtos\\NETDeveloperCaseStudy.Dtos.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.dtos\\rabbitmqmessage\\rabbitmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65339455-7256-42AA-B3BA-41664018CA82}|NETDeveloperCaseStudy.Dtos\\NETDeveloperCaseStudy.Dtos.csproj|solutionrelative:netdevelopercasestudy.dtos\\rabbitmqmessage\\rabbitmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\concretes\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\concretes\\clientmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\concretes\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\concretes\\loggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CE5BA-8387-40F0-BC05-52C9E7ECFD40}|NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.dataaccess\\contexts\\casestudywebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CE5BA-8387-40F0-BC05-52C9E7ECFD40}|NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj|solutionrelative:netdevelopercasestudy.dataaccess\\contexts\\casestudywebapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\constants\\logmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\constants\\logmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.business\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6CFCCA-A73F-41EC-B867-EEE1D8A33A06}|NETDeveloperCaseStudy.Business\\NETDeveloperCaseStudy.Business.csproj|solutionrelative:netdevelopercasestudy.business\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|c:\\users\\k\u0131l\u0131\u00E7\\onedrive\\masa\u00FCst\u00FC\\kafein\\netdevelopercasestudy\\netdevelopercasestudy.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417BE8A9-48BA-46C0-942C-C80756B6846A}|NETDeveloperCaseStudy.WebApi\\NETDeveloperCaseStudy.WebApi.csproj|solutionrelative:netdevelopercasestudy.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShoppingManager.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\ShoppingManager.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Concretes\\ShoppingManager.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\ShoppingManager.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Concretes\\ShoppingManager.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwG8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:41:03.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RabbitMQService.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQService.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQService.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQService.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:27:54.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\EmailManager.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Concretes\\EmailManager.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\EmailManager.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Concretes\\EmailManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:28:30.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "orderEmail.html",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+              "RelativeToolTip": "NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAhwJcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-18T06:33:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:23:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\Areas\\Client\\Controllers\\v1\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.WebApi\\Areas\\Client\\Controllers\\v1\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\Areas\\Client\\Controllers\\v1\\ShoppingCartController.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.WebApi\\Areas\\Client\\Controllers\\v1\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:02:21.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.DataAccess.EFCore\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.DataAccess.EFCore\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:48:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.DataAccess\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.DataAccess\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:21:56.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQEmailWorker.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQEmailWorker.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQEmailWorker.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQEmailWorker.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\RabbitMQ\\RabbitMQEmailWorker.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:25:36.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientManager.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\ClientManager.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Concretes\\ClientManager.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\ClientManager.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Concretes\\ClientManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T16:28:26.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RabbitMessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Dtos\\RabbitMQMessage\\RabbitMessageDto.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Dtos\\RabbitMQMessage\\RabbitMessageDto.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Dtos\\RabbitMQMessage\\RabbitMessageDto.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Dtos\\RabbitMQMessage\\RabbitMessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:14:14.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Dtos\\Shopping\\ShoppingCartDetailDto.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Dtos\\Shopping\\ShoppingCartDetailDto.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Dtos\\Shopping\\ShoppingCartDetailDto.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Dtos\\Shopping\\ShoppingCartDetailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:48:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogMessages.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Constants\\LogMessages.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Constants\\LogMessages.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Constants\\LogMessages.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Constants\\LogMessages.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:10:17.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoggerManager.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\LoggerManager.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\Concretes\\LoggerManager.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\Concretes\\LoggerManager.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\Concretes\\LoggerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:37:30.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CaseStudyWebApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\Contexts\\CaseStudyWebApiDbContext.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.DataAccess\\Contexts\\CaseStudyWebApiDbContext.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\Contexts\\CaseStudyWebApiDbContext.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.DataAccess\\Contexts\\CaseStudyWebApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T07:32:42.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "NETDeveloperCaseStudy.WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T22:09:05.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "NETDeveloperCaseStudy.Business\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\k\u0131l\u0131\u00E7\\OneDrive\\Masa\u00FCst\u00FC\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Business\\GlobalUsing.cs",
+              "RelativeToolTip": "NETDeveloperCaseStudy.Business\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:31:50.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

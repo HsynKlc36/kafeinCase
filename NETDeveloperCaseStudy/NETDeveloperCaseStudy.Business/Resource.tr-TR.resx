@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Adding_Failed" xml:space="preserve">
+    <value>Ekleme başarısız !</value>
+  </data>
+  <data name="Adding_Succeed" xml:space="preserve">
+    <value>Ekleme başarılı !</value>
+  </data>
+  <data name="Address_Length" xml:space="preserve">
+    <value>Lütfen adres alanını 2 ile 256 karakter arasında giriniz !</value>
+  </data>
+  <data name="Address_Not_Null" xml:space="preserve">
+    <value>Adres boş geçilemez !</value>
+  </data>
+  <data name="Address_No_Special_Chars" xml:space="preserve">
+    <value>"- / :" dışında özel karakter kullanmayınız !</value>
+  </data>
+  <data name="Already_Adding_Failed" xml:space="preserve">
+    <value>Bu veri zaten var !</value>
+  </data>
+  <data name="Cannot_Be_One_Of_The_Last_Three_Passwords" xml:space="preserve">
+    <value>Şifre son 3 şifreden biri olamaz !</value>
+  </data>
+  <data name="Casting_Is_Not_Completed" xml:space="preserve">
+    <value>Casting tamamlanamadı !</value>
+  </data>
+  <data name="ClientId_Do_Not_Null_Or_Empty" xml:space="preserve">
+    <value>ClientID alanı boş geçilemez !</value>
+  </data>
+  <data name="Client_Active_Description_Max_Length" xml:space="preserve">
+    <value>Açıklama 256 Karakterden Fazla Olamaz !</value>
+  </data>
+  <data name="Client_Active_Description_Min_Length" xml:space="preserve">
+    <value>Açıklama 2 Karakterden Az Olamaz !</value>
+  </data>
+  <data name="Client_Active_Description_Not_Empty" xml:space="preserve">
+    <value>Açıklama Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Client_Active_Description_Not_Null" xml:space="preserve">
+    <value>Kullanıcı Açıklama alanı boş geçilemez !</value>
+  </data>
+  <data name="Client_Active_Id_Not_Empty" xml:space="preserve">
+    <value>ID Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Client_Activity_Status_Changed_Failed" xml:space="preserve">
+    <value>Kullanıcı aktivite durumu değiştirme başarısız !</value>
+  </data>
+  <data name="Client_Activity_Status_Has_Not_Changed" xml:space="preserve">
+    <value>Kullanıcı aktivite durumu değişmedi !</value>
+  </data>
+  <data name="Client_Address_Length" xml:space="preserve">
+    <value>Lütfen adres alanını 2 ile 256 karakter arasında giriniz !</value>
+  </data>
+  <data name="Client_Address_Not_Null" xml:space="preserve">
+    <value>Adres alanını girmediniz !</value>
+  </data>
+  <data name="Client_Address_No_Special_Chars" xml:space="preserve">
+    <value>"- / :" dışında özel karakter kullanmayınız !</value>
+  </data>
+  <data name="Client_Already_Exists" xml:space="preserve">
+    <value>Kullanıcı zaten var!</value>
+  </data>
+  <data name="Client_Country_Code_Control" xml:space="preserve">
+    <value>Ülke kodu hatalı girildi !</value>
+  </data>
+  <data name="Client_Country_Code_Length" xml:space="preserve">
+    <value>Ülke kodu en fazla 2 haneli olabilir !</value>
+  </data>
+  <data name="Client_Country_Control" xml:space="preserve">
+    <value>Ülke hatalı girildi !</value>
+  </data>
+  <data name="Client_Country_Length" xml:space="preserve">
+    <value>Ülke en fazla 2 haneli olabilir !</value>
+  </data>
+  <data name="Client_Creating_Fail" xml:space="preserve">
+    <value>Kullanıcı oluşturma başarısız !</value>
+  </data>
+  <data name="Client_Date_Of_Birth_Control" xml:space="preserve">
+    <value>Kayıt Yapmak İçin 18 Yaşından Büyük veya 65 Yaşından Küçük Olmalısınız !</value>
+  </data>
+  <data name="Client_Deleting_Fail" xml:space="preserve">
+    <value>Kullanıcı silme  başarısız !</value>
+  </data>
+  <data name="Client_Details_Found_Failed" xml:space="preserve">
+    <value>Kullanıcı Detayları getirme işlemi başarısız !</value>
+  </data>
+  <data name="Client_Email_Control" xml:space="preserve">
+    <value>Lütfen geçerli bir e-mail adresi giriniz !</value>
+  </data>
+  <data name="Client_Email_Not_Empty" xml:space="preserve">
+    <value>Mail adresi girmelisiniz !</value>
+  </data>
+  <data name="Client_FirstName_Matches" xml:space="preserve">
+    <value>Adınız Sadece Harflerden Oluşmalıdır!</value>
+  </data>
+  <data name="Client_FirstName_Max_Length" xml:space="preserve">
+    <value>Adınız 50 Karakterden Fazla Olamaz !</value>
+  </data>
+  <data name="Client_FirstName_Min_Length" xml:space="preserve">
+    <value>Adınız 2 Karakterden Az Olamaz !</value>
+  </data>
+  <data name="Client_FirstName_Not_Empty" xml:space="preserve">
+    <value>Ad Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Client_Found_Failed" xml:space="preserve">
+    <value>Kullanıcı bulma işlemi başarısız !</value>
+  </data>
+  <data name="Client_Has_Not_Found" xml:space="preserve">
+    <value>Kullanıcı Bulunamadı !</value>
+  </data>
+  <data name="Client_Image_Extension" xml:space="preserve">
+    <value>Lütfen sadece PNG, JPG veya JPEG dosya türlerini kullanın !</value>
+  </data>
+  <data name="Client_Image_File_Size" xml:space="preserve">
+    <value>Dosya boyutu 10 MB altında olmalıdır !</value>
+  </data>
+  <data name="Client_Image_Not_Empty" xml:space="preserve">
+    <value>Kullanıcı resmi boş bırakılamaz !</value>
+  </data>
+  <data name="Client_LastName_Matches" xml:space="preserve">
+    <value>Soyad Sadece Harflerden Oluşmalıdır !</value>
+  </data>
+  <data name="Client_LastName_Max_Length" xml:space="preserve">
+    <value>Soyad 50 Karakterden Fazla Olamaz !</value>
+  </data>
+  <data name="Client_LastName_Min_Length" xml:space="preserve">
+    <value>Soyad 2 Karakterden Az Olamaz !</value>
+  </data>
+  <data name="Client_LastName_Not_Empty" xml:space="preserve">
+    <value>Soyad Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Client_Listed_Fail" xml:space="preserve">
+    <value>Kullanıcı listeleme başarısız !</value>
+  </data>
+  <data name="Client_Not_Active" xml:space="preserve">
+    <value>Kullanıcı aktif değil !</value>
+  </data>
+  <data name="Client_Not_Found" xml:space="preserve">
+    <value>Kullanıcı bulunamadı !</value>
+  </data>
+  <data name="Client_Updated_Fail" xml:space="preserve">
+    <value>Kullanıcı güncelleme başarısız !</value>
+  </data>
+  <data name="CurrentClient_Details_Found_Failed" xml:space="preserve">
+    <value>Mevcut kullanıcı detayları getirme işlemi başarısız !</value>
+  </data>
+  <data name="CurrentClient_Updated_Failed" xml:space="preserve">
+    <value>Mevcut kullanıcı güncelleme başarısız !</value>
+  </data>
+  <data name="Date_Of_Birth_Control" xml:space="preserve">
+    <value>18 Yaşından Büyük veya 65 Yaşından Küçük Olmalısınız !</value>
+  </data>
+  <data name="Delete_Listed_Fail" xml:space="preserve">
+    <value>Silinenleri listeleme başarısız !</value>
+  </data>
+  <data name="Deleting_Failed" xml:space="preserve">
+    <value>Silme başarısız !</value>
+  </data>
+  <data name="Deleting_Succeed" xml:space="preserve">
+    <value>Silme başarılı !</value>
+  </data>
+  <data name="Deleting_Successful" xml:space="preserve">
+    <value>Silme işlemi başarılı !</value>
+  </data>
+  <data name="Email_Control" xml:space="preserve">
+    <value>Lütfen geçerli bir e-mail adresi giriniz !</value>
+  </data>
+  <data name="Email_Not_Empty" xml:space="preserve">
+    <value>E-Mail boş olamaz !</value>
+  </data>
+  <data name="File_Could_Not_Be_Recovered" xml:space="preserve">
+    <value>Dosya kurtarılamadı !</value>
+  </data>
+  <data name="FirstName_Matches" xml:space="preserve">
+    <value>Adınız Sadece Harflerden Oluşmalıdır !</value>
+  </data>
+  <data name="FirstName_Max_Length" xml:space="preserve">
+    <value>Adınız 50 Karakterden Fazla Olamaz !</value>
+  </data>
+  <data name="FirstName_Min_Length" xml:space="preserve">
+    <value>Adınız 2 Karakterden Az Olamaz !</value>
+  </data>
+  <data name="FirstName_Not_Empty" xml:space="preserve">
+    <value>Ad Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Found_Failed" xml:space="preserve">
+    <value>Bulunamadı !</value>
+  </data>
+  <data name="Found_Success" xml:space="preserve">
+    <value>Bulundu !</value>
+  </data>
+  <data name="Gender_Not_Empty" xml:space="preserve">
+    <value>Cinsiyet boş geçilemez !</value>
+  </data>
+  <data name="Give_Point_Success" xml:space="preserve">
+    <value>Puanlama işlemi başarılı !</value>
+  </data>
+  <data name="Group_Type_Name_Invalid" xml:space="preserve">
+    <value>Lütfen özel karakter kullanmayınız  !</value>
+  </data>
+  <data name="IdentityIds_Do_Not_Match" xml:space="preserve">
+    <value>IdentityID' ler eşleşmiyor !</value>
+  </data>
+  <data name="Ids_Do_Not_Match" xml:space="preserve">
+    <value>ID' ler eşleşmiyor !</value>
+  </data>
+  <data name="Id_Do_Not_Null_Or_Empty" xml:space="preserve">
+    <value>ID alanı boş geçilemez !</value>
+  </data>
+  <data name="Incorrect_Operation" xml:space="preserve">
+    <value>İşlem yanlış !</value>
+  </data>
+  <data name="IsClient_Control" xml:space="preserve">
+    <value>Kullanıcı rolü hatalı !</value>
+  </data>
+  <data name="ItemId_Has_Not_Found" xml:space="preserve">
+    <value>ItemID bulunamadı !</value>
+  </data>
+  <data name="Item_Type_Is_Not_Correct" xml:space="preserve">
+    <value>Öğe türü doğru değil !</value>
+  </data>
+  <data name="LastName_Matches" xml:space="preserve">
+    <value>Soyadınız Sadece Harflerden Oluşmalıdır!</value>
+  </data>
+  <data name="LastName_Max_Length" xml:space="preserve">
+    <value>Soyadınız 50 Karakterden Fazla Olamaz !</value>
+  </data>
+  <data name="LastName_Min_Length" xml:space="preserve">
+    <value>Soyadınız 2 Karakterden Az Olamaz !</value>
+  </data>
+  <data name="LastName_Not_Empty" xml:space="preserve">
+    <value>Soyad Alanı Boş Geçilemez !</value>
+  </data>
+  <data name="Link_Format_Fail" xml:space="preserve">
+    <value>Girilen link geçerli formatta değildir!</value>
+  </data>
+  <data name="Listed_Fail" xml:space="preserve">
+    <value>Listelenemedi !</value>
+  </data>
+  <data name="Listed_Success" xml:space="preserve">
+    <value>Listelendi !</value>
+  </data>
+  <data name="List_Elements_By_UserId_Failed" xml:space="preserve">
+    <value>UserID ile liste elementlerini getirme başarısız !</value>
+  </data>
+  <data name="List_Elements_Failed" xml:space="preserve">
+    <value>elementleri listeleme başarısız !</value>
+  </data>
+  <data name="List_Has_No_Elements" xml:space="preserve">
+    <value>Listede element mevcut değil !</value>
+  </data>
+  <data name="Logged_In_Admin_Updated_Failed" xml:space="preserve">
+    <value>Giriş yapmış admini güncelleme başarısız !</value>
+  </data>
+  <data name="Logged_In_Client_Updated_Failed" xml:space="preserve">
+    <value>Giriş yapmış kullanıcıyı güncelleme başarısız !</value>
+  </data>
+  <data name="Login_Email_Control" xml:space="preserve">
+    <value>Lütfen geçerli bir e-mail adresi giriniz !</value>
+  </data>
+  <data name="Login_Email_Not_Empty" xml:space="preserve">
+    <value>Mail adresi girmelisiniz !</value>
+  </data>
+  <data name="Login_Password_Not_Empty" xml:space="preserve">
+    <value>Şifre girmelisiniz !</value>
+  </data>
+  <data name="Logout_Successfully" xml:space="preserve">
+    <value>Çıkış başarılı !</value>
+  </data>
+  <data name="Non_Existent_Directory" xml:space="preserve">
+    <value>Dosya yolu bulunamadı !</value>
+  </data>
+  <data name="Old_Password_Is_Incorrect" xml:space="preserve">
+    <value>Eski şifreniz yanlış !</value>
+  </data>
+  <data name="Passwords_Do_Not_Match" xml:space="preserve">
+    <value>Şifreler eşleşmiyor !</value>
+  </data>
+  <data name="Password_Has_Created_Failed" xml:space="preserve">
+    <value>Şifre oluşturma başarısız !</value>
+  </data>
+  <data name="Password_Has_Reset_Failed" xml:space="preserve">
+    <value>Şifre sıfırlama başarısız !</value>
+  </data>
+  <data name="Password_Match_Fail" xml:space="preserve">
+    <value>Parolalar Eşleşmiyor !</value>
+  </data>
+  <data name="Password_Must_Be_At_Least_8_Characters_Long_And_Contain_At_Least_One_Uppercase_Letter_One_Lowercase_Letter_And_One_Digit" xml:space="preserve">
+    <value>Şifre en az 8 karakter uzunluğunda olmalı  en az bir büyük harf, bir küçük harf ve en az bir rakam içermelidir !</value>
+  </data>
+  <data name="Password_Reset_Successfully_And_New_Password_Has_Send_To_Your_Email" xml:space="preserve">
+    <value>Şifre Başarıyla Sıfırlandı ve Yeni Şifre E-Mail Adresinize Gönderildi !</value>
+  </data>
+  <data name="Please_Open_Your_Email_And_Click_The_Link" xml:space="preserve">
+    <value>Lütfen E-Mail' inizi açın ve linke tıklayınız</value>
+  </data>
+  <data name="Register_Fail" xml:space="preserve">
+    <value>Kayıt işlemi başarısız !</value>
+  </data>
+  <data name="Register_Success" xml:space="preserve">
+    <value>Kayıt işlemi başarılı !</value>
+  </data>
+  <data name="Response_Success" xml:space="preserve">
+    <value>Yanıtınız başarıyla eklendi!</value>
+  </data>
+  <data name="Same_Email_Address_Has_Already_Used" xml:space="preserve">
+    <value>Sisteme kayıtlı bir e-mail adresi girdiniz !</value>
+  </data>
+  <data name="Sent_For_Approval" xml:space="preserve">
+    <value>Onaya Gönderildi !</value>
+  </data>
+  <data name="TokenBlackList_Creation_Failed" xml:space="preserve">
+    <value>Token kara liste oluşturulurken hata oluştu !</value>
+  </data>
+  <data name="Token_Created_Successfully" xml:space="preserve">
+    <value>Token başarıyla oluşturuldu !</value>
+  </data>
+  <data name="Token_Creation_Failed" xml:space="preserve">
+    <value>Token oluşturma başarısız !</value>
+  </data>
+  <data name="Update_Fail" xml:space="preserve">
+    <value>Güncelleme başarısız !</value>
+  </data>
+  <data name="Update_Success" xml:space="preserve">
+    <value>Güncelleme başarılı !</value>
+  </data>
+  <data name="Username_Or_Password_Is_Wrong" xml:space="preserve">
+    <value>Kullanıcı adı veya şifre hatalı !</value>
+  </data>
+  <data name="UserPasswords_Has_Not_Found" xml:space="preserve">
+    <value>UserPasswords bulunamadı !</value>
+  </data>
+  <data name="UserPassword_Found_Failed" xml:space="preserve">
+    <value>Kullanıcı şifresi  bulma başarısız !</value>
+  </data>
+  <data name="UserPassword_Not_Found" xml:space="preserve">
+    <value>Kullanıcı şifresi bulunamadı !</value>
+  </data>
+  <data name="User_Details_View_Success" xml:space="preserve">
+    <value>Kullanıcı Bilgileri Görüntüleme Başarılı ! </value>
+  </data>
+  <data name="User_Email_Control" xml:space="preserve">
+    <value>Lütfen geçerli bir e-mail adresi giriniz !</value>
+  </data>
+  <data name="User_Email_Not_Empty" xml:space="preserve">
+    <value>Kullanıcı e-mail' i boş geçilemez !</value>
+  </data>
+  <data name="User_Has_Not_Found" xml:space="preserve">
+    <value>Kullanıcı bulunamadı !</value>
+  </data>
+  <data name="User_Roles_Failed" xml:space="preserve">
+    <value>Kullanıcı rolleri bulunamadı !</value>
+  </data>
+  <data name="Video_Duration_Is_Not_Valid" xml:space="preserve">
+    <value>Video süresi sınırı aşamaz !</value>
+  </data>
+  <data name="Video_Size_Is_Not_Valid" xml:space="preserve">
+    <value>Video boyutu sınırı aşamaz !</value>
+  </data>
+</root>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplate\\orderEmail.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NETDeveloperCaseStudy.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NETDeveloperCaseStudy.WebApi.props",
+      "PackagePath": "build\\NETDeveloperCaseStudy.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NETDeveloperCaseStudy.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\NETDeveloperCaseStudy.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NETDeveloperCaseStudy.WebApi.props",
+      "PackagePath": "buildTransitive\\NETDeveloperCaseStudy.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

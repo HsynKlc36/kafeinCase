@@ -1,0 +1,2 @@
+2024-05-18 08:54:45.1393 | ERROR | EmailManager.cs.SendOrderEmailAsync - Message: Send_Order_Email_Failed
+2024-05-18 14:04:25.3438 | ERROR | EmailManager.cs.SendOrderEmailAsync - Message: Send_Order_Email_Failed

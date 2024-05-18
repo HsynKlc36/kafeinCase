@@ -1,0 +1,493 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\NETDeveloperCaseStudy.Authentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\NETDeveloperCaseStudy.Authentication.csproj",
+        "projectName": "NETDeveloperCaseStudy.Authentication",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\NETDeveloperCaseStudy.Authentication.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\NETDeveloperCaseStudy.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\NETDeveloperCaseStudy.Core.csproj",
+        "projectName": "NETDeveloperCaseStudy.Core",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\NETDeveloperCaseStudy.Core.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj",
+        "projectName": "NETDeveloperCaseStudy.DataAccess.EFCore",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\NETDeveloperCaseStudy.DataAccess.EFCore.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj",
+        "projectName": "NETDeveloperCaseStudy.DataAccess.Interfaces",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\NETDeveloperCaseStudy.DataAccess.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj",
+        "projectName": "NETDeveloperCaseStudy.DataAccess",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\NETDeveloperCaseStudy.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\NETDeveloperCaseStudy.Authentication.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Authentication\\NETDeveloperCaseStudy.Authentication.csproj"
+              },
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\NETDeveloperCaseStudy.Entities.Configurations.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\NETDeveloperCaseStudy.Entities.Configurations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\NETDeveloperCaseStudy.Entities.Configurations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\NETDeveloperCaseStudy.Entities.Configurations.csproj",
+        "projectName": "NETDeveloperCaseStudy.Entities.Configurations",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\NETDeveloperCaseStudy.Entities.Configurations.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities.Configurations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\NETDeveloperCaseStudy.Entities.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\NETDeveloperCaseStudy.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\NETDeveloperCaseStudy.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\NETDeveloperCaseStudy.Entities.csproj",
+        "projectName": "NETDeveloperCaseStudy.Entities",
+        "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\NETDeveloperCaseStudy.Entities.csproj",
+        "packagesPath": "C:\\Users\\kılıç\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kılıç\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\NETDeveloperCaseStudy.Core.csproj": {
+                "projectPath": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.Core\\NETDeveloperCaseStudy.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

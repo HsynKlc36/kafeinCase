@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "z/zRMx2vBJfixjdne6VZWnklwYatR4pjbr+sbMpiZu4=",
+  "Source": "NETDeveloperCaseStudy.WebApi",
+  "BasePath": "_content/NETDeveloperCaseStudy.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NETDeveloperCaseStudy.WebApi\\wwwroot",
+      "Source": "NETDeveloperCaseStudy.WebApi",
+      "ContentRoot": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\",
+      "BasePath": "_content/NETDeveloperCaseStudy.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\EmailTemplate\\orderEmail.html",
+      "SourceId": "NETDeveloperCaseStudy.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kılıç\\OneDrive\\Masaüstü\\Kafein\\NETDeveloperCaseStudy\\NETDeveloperCaseStudy.WebApi\\wwwroot\\",
+      "BasePath": "_content/NETDeveloperCaseStudy.WebApi",
+      "RelativePath": "EmailTemplate/orderEmail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\EmailTemplate\\orderEmail.html"
+    }
+  ]
+}

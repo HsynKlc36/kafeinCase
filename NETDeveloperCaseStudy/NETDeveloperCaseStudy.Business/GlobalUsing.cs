@@ -1,0 +1,24 @@
+﻿global using AutoMapper;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Options;
+global using Microsoft.IdentityModel.Tokens;
+global using NETDeveloperCaseStudy.Authentication.Options;
+global using NETDeveloperCaseStudy.Business.Abstracts;
+global using NETDeveloperCaseStudy.Business.Concretes;
+global using NETDeveloperCaseStudy.Business.Constants;
+global using NETDeveloperCaseStudy.Core.Utilities.Helpers;
+global using NETDeveloperCaseStudy.Core.Utilities.Results;
+global using NETDeveloperCaseStudy.DataAccess.Interfaces.Repositories;
+global using NETDeveloperCaseStudy.Dtos.Account;
+global using NETDeveloperCaseStudy.Dtos.Clients;
+global using NETDeveloperCaseStudy.Entities.DbSets;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Net;
+global using System.Net.Mail;
+global using System.Security.Claims;
+global using System.Text;
+global using IResult = NETDeveloperCaseStudy.Core.Utilities.Results.IResult;
+

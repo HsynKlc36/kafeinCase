@@ -1,0 +1,17 @@
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.deps.json
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Core.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\bin\Debug\net7.0\NETDeveloperCaseStudy.Core.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.csproj.AssemblyReference.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.AssemblyInfoInputs.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.AssemblyInfo.cs
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.csproj.CoreCompileInputs.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDevel.FAE1707A.Up2Date
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\refint\NETDeveloperCaseStudy.Entities.Configurations.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\NETDeveloperCaseStudy.Entities.Configurations.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Entities.Configurations\obj\Debug\net7.0\ref\NETDeveloperCaseStudy.Entities.Configurations.dll

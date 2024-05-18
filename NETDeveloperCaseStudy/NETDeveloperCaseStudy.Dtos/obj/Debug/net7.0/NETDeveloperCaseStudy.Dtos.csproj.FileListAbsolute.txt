@@ -1,0 +1,17 @@
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Dtos.deps.json
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Dtos.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Dtos.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Core.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Core.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\bin\Debug\net7.0\NETDeveloperCaseStudy.Entities.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.csproj.AssemblyReference.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.AssemblyInfoInputs.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.AssemblyInfo.cs
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDevel.D7661F4C.Up2Date
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\refint\NETDeveloperCaseStudy.Dtos.dll
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\NETDeveloperCaseStudy.Dtos.pdb
+C:\Users\kılıç\OneDrive\Masaüstü\Kafein\NETDeveloperCaseStudy\NETDeveloperCaseStudy.Dtos\obj\Debug\net7.0\ref\NETDeveloperCaseStudy.Dtos.dll

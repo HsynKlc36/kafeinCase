@@ -1,0 +1,11 @@
+2024-05-17 08:55:09.2572 | ERROR | AccountManager.cs.LoginAsync - Message: Kullanıcı adı veya şifre hatalı !
+2024-05-17 08:56:42.6459 | ERROR | AccountManager.cs.LoginAsync - Message: Kullanıcı adı veya şifre hatalı !
+2024-05-17 08:58:55.5433 | ERROR | AccountManager.cs.LoginAsync - Message: Kullanıcı adı veya şifre hatalı !
+2024-05-17 08:59:32.2301 | ERROR | AccountManager.cs.LoginAsync - Message: Kullanıcı adı veya şifre hatalı !
+2024-05-17 09:02:25.1568 | ERROR | ClientManager.cs.GetByIdAsync - Message: Student not found !
+2024-05-17 09:03:26.9676 | ERROR | ClientManager.cs.GetByIdAsync - Message: Student not found !
+2024-05-17 09:04:14.0781 | ERROR | ClientManager.cs.GetByIdAsync - Message: Student not found !
+2024-05-17 09:06:11.3671 | ERROR | ClientManager.cs.GetByIdAsync - Message: Student not found !
+2024-05-17 09:06:55.0524 | ERROR | ShoppingManager.cs.CreateShoppingAsync - Message: User has not found !
+2024-05-17 14:36:43.0010 | ERROR | ClientManager.cs.GetByIdAsync - Message: Student not found !
+2024-05-17 14:36:43.0010 | ERROR | ShoppingManager.cs.CreateShoppingAsync - Message: User has not found !
